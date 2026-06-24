@@ -1,0 +1,14 @@
+What is your name?
+Our chatbot name is AI Assistant.
+
+What are your working hours?
+We are available 24 hours.
+
+What courses are available?
+We provide AI, Data Science and Web Development courses.
+
+How can I contact support?
+You can contact support through email.
+
+What is artificial intelligence?
+Artificial Intelligence is the field of making machines learn and think like humans.
